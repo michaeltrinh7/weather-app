@@ -68,6 +68,9 @@ Follow the steps below to install and run this web application on your local mac
     Open your web browser and go to [http://localhost:5173/](http://localhost:5173/) to access the Weather Web Application.
 
 
+## Credit:
+This Weather Application is based on the original project by JonUK, available at JonUK's Responsive Web Weather App https://github.com/JonUK/responsive-web-weather-app
+
 ## Demo: https://michaeltrinh7.github.io/weather-app/
 
 ## More details about this project at https://michaeltrinh7.wordpress.com/2024/03/17/introducing-the-weather-application-your-ultimate-weather-companion-%f0%9f%8c%a6%ef%b8%8f%e2%98%80%ef%b8%8f%f0%9f%8c%a7%ef%b8%8f/
